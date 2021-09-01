@@ -14,8 +14,8 @@ The 'Finance Calculator' project is a program that is designed for use by a smal
 2. Interest rate
 3. Number of years
 4. Interest type
-  * Simple
-  * Compound
+   * Simple
+   * Compound
 
 #### Home Loan Repayment Calculator
 * User is prompted to provide the following information:
