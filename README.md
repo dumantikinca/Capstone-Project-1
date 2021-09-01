@@ -10,20 +10,20 @@ The 'Finance Calculator' project is a program that is designed for use by a smal
 
 #### Investment Calculator
 The user is prompted for the following information:
-* The amount of money they are depositing
-* The interest rate
-* The number of years
-* Select the interest type
-  * Simple
-  * Compound
-* Displays the results to the user
+The amount of money they are depositing
+The interest rate
+The number of years
+Select the interest type
+ * Simple
+ * Compound
+Displays the results to the user
 
 #### Home Loan Repayment Calculator
 The user is prompted for the following information:
-* The currrent property value
-* The interest rate
-* Repayment term in months
-* Displays the results to the user
+The currrent property value
+The interest rate
+Repayment term in months
+Displays the results to the user
 
 ### Contributors
 
